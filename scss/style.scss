@@ -1,0 +1,27 @@
+@import '_override_bootstrap.scss';
+
+html {
+    height: 100%;
+}
+
+body {
+    height: 100%;
+    margin: 0;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background: rgb(36, 60, 166);
+    background: linear-gradient(180deg, rgba(36, 60, 166, 1) 12%, rgba(66, 177, 172, 1) 57%, rgba(23, 156, 121, 1) 84%);
+}
+
+.myThead
+{
+    background-color: aquamarine !important;
+}
+
+.myTbody
+{
+    background-color: rgb(36, 202, 61) !important;
+}
+.myTbody2 {
+    background-color: rgb(16, 175, 61) !important;
+}

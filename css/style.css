@@ -1,0 +1,36 @@
+/* @import '../../../Bootstrap/bootstrap-5.3.2/scss/functions';
+@import '../../../Bootstrap/bootstrap-5.3.2/scss/variables';
+
+//Modifiche funzioni
+
+//Fine modifiche funzioni
+
+//Modifiche variabili
+
+//Fine modifiche variabili
+
+@import '../../../Bootstrap/bootstrap-5.3.2/scss/bootstrap.scss'; */
+html {
+  height: 100%;
+}
+
+body {
+  height:fit-content;
+  margin: 0;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background: rgb(36, 60, 166);
+  background: linear-gradient(180deg, rgb(36, 60, 166) 12%, rgb(66, 177, 172) 57%, rgb(23, 156, 121) 84%);
+}
+
+.myThead {
+  background-color: aquamarine !important;
+}
+
+.myTbody {
+  background-color: rgb(36, 202, 61) !important;
+}
+
+.myTbody2 {
+  background-color: rgb(16, 175, 61) !important;
+}/*# sourceMappingURL=style.css.map */
